@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Oscar
 
-<!--
-**oscarchavarrodev/oscarchavarrodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer in training, currently focused on **Java** and **backend development**.  
+My long-term goal is to become a **Software Architect**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm working on
+- Learning **Java fundamentals**
+- Object-Oriented Programming (OOP)
+- Clean Code and SOLID principles
+
+---
+
+## 🧠 Learning roadmap
+- ✅ Java basics
+- 🔄 Advanced OOP in Java
+- ⏳ Data structures
+- ⏳ Spring Boot
+- ⏳ Software architecture
+- ⏳ Microservices & Cloud
+
+---
+
+## 📂 Projects
+*(Work in progress)*  
+- 🛠️ `java-fundamentals` – Java basics, exercises and concepts  
+- 🛠️ `system-design-notes` – Notes about software design and architecture  
+---
+
+## 🧩 Technical interests
+- Software architecture
+- Backend development
+- System design
+- Scalable and clean code
+
+---
+
+## 📫 Contact
+- Email: oscarchavarro.contacto@gmail.com
+- LinkedIn: *(add when available)*
+
+---
+⭐ This profile documents my learning journey step by step
