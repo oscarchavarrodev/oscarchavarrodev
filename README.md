@@ -24,9 +24,7 @@ My long-term goal is to become a **Software Architect**.
 
 ## 📂 Projects
 *(Work in progress)*  
-- 🛠️ `java-fundamentals` – Java basics, exercises and concepts  
-- 🛠️ `system-design-notes` – Notes about software design and architecture  
----
+- 🛠️ `Digitall-Wallet´
 
 ## 🧩 Technical interests
 - Software architecture
