@@ -14,9 +14,9 @@ My long-term goal is to become a **Software Architect**.
 
 ## 🧠 Learning roadmap
 - ✅ Java basics
-- 🔄 Advanced OOP in Java
-- ⏳ Data structures
-- ⏳ Spring Boot
+- ✅ Advanced OOP in Java
+- ✅ Data structures
+- 🔄 Spring Boot
 - ⏳ Software architecture
 - ⏳ Microservices & Cloud
 
